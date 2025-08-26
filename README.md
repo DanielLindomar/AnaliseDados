@@ -25,7 +25,7 @@ segundas-feiras das 19:30 às 21:30
 
 ### Aula 1 – Explorando Dados
 - 🎥 [Vídeo Aula](https://youtu.be/9lMRfR_UvV4)
-- 📑 [Slides](./Aula%201%20-%20Slides%20.pdf)
+- 📑 [Slides](./Aula1-Slides.pdf)
 - 📄 [Roteiro da Atividade Prática – Laboratório 1](./Lab1.pdf)
 - 📊 [Base de dados – Limonada](./Limonada.xlsx)  
 ---
