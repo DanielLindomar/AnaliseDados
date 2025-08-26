@@ -1,22 +1,55 @@
 # 📊 Introdução à Análise de Dados
-
-Materiais da disciplina **Econometria I – Introdução à Análise de Dados**  
-Prof. Lindomar Pegorini Daniel – Universidade do Estado de Mato Grosso (UNEMAT)
-
----
-
-## ▶️ Aulas no YouTube
-- [Econometria e Atualidades](https://youtu.be/MS5pBexmeW0)
-- [Aula 1 – Explorando dados](https://youtu.be/9lMRfR_UvV4)
-- [Aula 2 – Analisando e visualizando dados](https://youtu.be/HL7mIPba9gM)
-- [Aula 3 – Introdução à estatística](https://youtu.be/YGjXucQpTsE)
+Materiais d **Econometria I – Prof. Lindomar Pegorini Daniel**  
+Universidade do Estado de Mato Grosso (UNEMAT)
 
 ---
 
-## 📂 Materiais para Download
-- [Aula 1 - Explorando dados (PPTX)](./Aula%201%20-%20Explorando%20dados.pptx)
-- [Laboratório 1 (DOCX)](./Lab1.docx)
-- [Base de dados – Limonada (XLSX)](./Limonada.xlsx)
+## 📺 Econometria e Atualidades
+- 🎥 [Vídeo no YouTube](https://youtu.be/MS5pBexmeW0)
+
+---
+
+## 📘 Unidade 1 – Introdução ao Modelo de Regressão Linear
+
+### 1.1 Análise Estatística Básica
+**Leitura complementar**  
+- Apêndice 2 – Apêndice estatístico  
+- GUJARATI, D. *Econometria: Princípios, teoria e aplicações práticas*. São Paulo: Saraiva, 2019.
+
+---
+
+### Aula 1 – Explorando Dados
+- 🎥 [Vídeo no YouTube](https://youtu.be/9lMRfR_UvV4)  
+- 📑 [Slides – Aula 1 (PPTX)](./Aula%201%20-%20Explorando%20dados.pptx)
+
+---
+
+### Laboratório 1 – Explorando Dados no Excel
+- 📄 [Roteiro – Lab 1 (DOCX)](./Lab1.docx)  
+- 📊 [Base de dados – Limonada (XLSX)](./Limonada.xlsx)  
+- Atividade prática: ordenação, filtros, criação de variáveis e análise descritiva:contentReference[oaicite:0]{index=0}
+
+---
+
+### Aula 2 – Analisando e Visualizando Dados
+- 🎥 [Vídeo no YouTube](https://youtu.be/HL7mIPba9gM)
+
+---
+
+### Laboratório 2 – Prática com Visualização
+- 📊 [Base de dados – Limonada (XLSX)](./Limonada.xlsx)  
+- Atividade prática: gráficos, formatação condicional e exploração de relações
+
+---
+
+### Aula 3 – Introdução à Estatística
+- 🎥 [Vídeo no YouTube](https://youtu.be/YGjXucQpTsE)
+
+---
+
+### Laboratório 3 – Estatística Descritiva
+- 📊 [Base de dados – Limonada (XLSX)](./Limonada.xlsx)  
+- Atividade prática: medidas de posição, dispersão e interpretação
 
 ---
 
