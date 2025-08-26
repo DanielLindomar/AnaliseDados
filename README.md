@@ -1,7 +1,13 @@
 # 📊 Introdução à Análise de Dados
-Materiais d **Econometria I – Prof. Lindomar Pegorini Daniel**  
+Materiais do curso de extensão  **Estatística – Hospital Santo Antônio**  
 Universidade do Estado de Mato Grosso (UNEMAT)
 
+---
+
+## 🔗 Site do curso
+- [📖 Boi Estatística – Materiais complementares](https://boiestatisticahsa.netlify.app/)
+
+---
 ---
 
 ## 📺 Econometria e Atualidades
@@ -9,7 +15,7 @@ Universidade do Estado de Mato Grosso (UNEMAT)
 
 ---
 
-## 📘 Unidade 1 – Introdução ao Modelo de Regressão Linear
+## 📘 Unidade 1 – Análise Estatítica Básica
 
 ### 1.1 Análise Estatística Básica
 **Leitura complementar**  
