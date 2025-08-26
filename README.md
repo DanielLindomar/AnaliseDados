@@ -30,7 +30,7 @@ segundas-feiras das 19:30 às 21:30
 ---
 
 ### Aula 2 – Analisando e Visualizando Dados
-- 🎥 [Vídeo Aula](https://youtu.be/9lMRfR_UvV4)
+- 🎥 [Vídeo Aula](https://youtu.be/HL7mIPba9gM)
 - 📑 [Slides](./Aula%201%20-%20Slides.pdf)
 - 📄 [Roteiro da Atividade Prática – Laboratório 1](./Lab1.docx)
 - 📊 [Base de dados – Limonada](./Limonada.xlsx)
@@ -38,7 +38,7 @@ segundas-feiras das 19:30 às 21:30
 ---
 
 ### Aula 3 – Introdução à Estatística
-- 🎥 [Vídeo Aula](https://youtu.be/9lMRfR_UvV4)
+- 🎥 [Vídeo Aula](https://youtu.be/YGjXucQpTsE)
 - 📑 [Slides](./Aula%201%20-%20Slides.pdf)
 - 📄 [Roteiro da Atividade Prática – Laboratório 1](./Lab1.docx)
 - 📊 [Base de dados – Limonada](./Limonada.xlsx)
