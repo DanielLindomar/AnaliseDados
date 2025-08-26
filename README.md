@@ -25,7 +25,7 @@ Universidade do Estado de Mato Grosso (UNEMAT)
 
 ### Aula 1 – Explorando Dados
 - 🎥 [Vídeo no YouTube](https://youtu.be/9lMRfR_UvV4)  
-- 📑 [Slides – Aula 1 (PPTX)](./Aula%201%20-%20Explorando%20dados.pptx)
+- 📑 [Slides – Aula 1 (PPTX)](./Aula%201%20-%20Slides.pdf)
 
 ---
 
