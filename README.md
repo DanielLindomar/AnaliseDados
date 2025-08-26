@@ -8,7 +8,6 @@ Universidade do Estado de Mato Grosso (UNEMAT)
 - [📖 Boi Estatística – Materiais complementares](https://boiestatisticahsa.netlify.app/)
 
 ---
----
 
 ## 📺 Econometria e Atualidades
 - 🎥 [Vídeo no YouTube](https://youtu.be/MS5pBexmeW0)
