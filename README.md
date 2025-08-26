@@ -24,7 +24,9 @@ segundas-feiras das 19:30 às 21:30
 ---
 
 ### Aula 1 – Explorando Dados
-- 🎥 [Vídeo no YouTube](https://youtu.be/9lMRfR_UvV4)  
+Vídeo aula:
+- 🎥 [Vídeo no YouTube](https://youtu.be/9lMRfR_UvV4)
+Slides: 
 - 📑 [Slides – Aula 1](./Aula%201%20-%20Slides.pdf)
 
 ---
