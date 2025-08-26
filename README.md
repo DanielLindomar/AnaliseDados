@@ -2,10 +2,15 @@
 Materiais do curso de extensão  **Estatística – Hospital Santo Antônio**  
 Universidade do Estado de Mato Grosso (UNEMAT)
 
+Prezados,
+O Curso será dividido em três unidades, cada unidade é composta por
+slides, vídeo aulas, atividades práticas e aula presencial às 
+segundas-feiras das 19:30 às 21:30
+
 ---
 
 ## 🔗 Site do curso
-- [📖 Boi Estatística – Materiais complementares](https://boiestatisticahsa.netlify.app/)
+- [📖 Bioestatística – Materiais complementares](https://boiestatisticahsa.netlify.app/)
 
 ---
 
