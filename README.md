@@ -21,16 +21,11 @@ segundas-feiras das 19:30 às 21:30
 
 ## 📘 Unidade 1 – Análise Estatítica Básica
 
-### 1.1 Análise Estatística Básica
-**Leitura complementar**  
-- Apêndice 2 – Apêndice estatístico  
-- GUJARATI, D. *Econometria: Princípios, teoria e aplicações práticas*. São Paulo: Saraiva, 2019.
-
 ---
 
 ### Aula 1 – Explorando Dados
 - 🎥 [Vídeo no YouTube](https://youtu.be/9lMRfR_UvV4)  
-- 📑 [Slides – Aula 1 (PPTX)](./Aula%201%20-%20Slides.pdf)
+- 📑 [Slides – Aula 1](./Aula%201%20-%20Slides.pdf)
 
 ---
 
