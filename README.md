@@ -63,10 +63,28 @@ segundas-feiras das 19:30 às 21:30
 
 ---
 
-
 ### Aula 6 – Validação da Regressão
 - 🎥 [Vídeo Aula](https://youtu.be/lrWnwjnXP40)
 - 📑 [Slides](./Aula6-Slides.pdf) 
+
+---
+
+### Aula 7 – Estrutura dos Dados
+- 🎥 [Vídeo Aula](https://youtu.be/DqXEg1q0ld4)
+- 📑 [Slides](./Aula7-Slides.pdf) 
+
+---
+
+### Aula 8 – Introdução ao R
+- 🎥 [Vídeo Aula](https://youtu.be/kUMtk888wUU)
+- 📑 [Slides](./Aula8-Slides.pdf) 
+
+---
+
+### Atividade Prática – Laboratório 4
+- 📄 [Roteiro da Atividade Prática – Laboratório 4](./Lab4.pdf)
+- 📊 [Base de dados – Limonada](./Limonada.xlsx)
+
 
 ---
 
