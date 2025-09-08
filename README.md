@@ -78,7 +78,7 @@ segundas-feiras das 19:30 às 21:30
 ### Aula 8 – Introdução ao R
 - 🎥 [Vídeo Aula](https://youtu.be/kUMtk888wUU)
 - 📑 [Slides](./Aula8-Slides.pdf) 
-- 📄 [Introdução ao R – Script](./Lab3.pdf)
+- 📄 [Introdução ao R – Script](./Introdução_ao_R.R)
 - 📊 [Base de dados – Limonada](./Limonada.xls)
   
 ---
