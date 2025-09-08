@@ -28,6 +28,7 @@ segundas-feiras das 19:30 às 21:30
 - 📑 [Slides](./Aula1-Slides.pdf)
 - 📄 [Roteiro da Atividade Prática – Laboratório 1](./Lab1.pdf)
 - 📊 [Base de dados – Limonada](./Limonada.xlsx)  
+
 ---
 
 ### Aula 2 – Analisando e Visualizando Dados
@@ -46,8 +47,13 @@ segundas-feiras das 19:30 às 21:30
 
 ---
 
-
 ## 📘 Unidade 2 – Introdução à Análise de Regressão
+
+---
+
+### Aula 4 – Explorando Dados
+- 🎥 [Vídeo Aula](https://youtu.be/FpXuMiMf03w)
+- 📑 [Slides](./Aula4-Slides.pdf) 
 
 ---
 
