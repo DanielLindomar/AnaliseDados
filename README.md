@@ -51,9 +51,22 @@ segundas-feiras das 19:30 às 21:30
 
 ---
 
-### Aula 4 – Explorando Dados
+### Aula 4 – Modelo de Regressão Linear
 - 🎥 [Vídeo Aula](https://youtu.be/FpXuMiMf03w)
 - 📑 [Slides](./Aula4-Slides.pdf) 
+
+---
+
+### Aula 5 – Modelo Clássico de Regressão Linear
+- 🎥 [Vídeo Aula](https://youtu.be/9Idusi94YXM)
+- 📑 [Slides](./Aula5-Slides.pdf) 
+
+---
+
+
+### Aula 6 – Validação da Regressão
+- 🎥 [Vídeo Aula](https://youtu.be/lrWnwjnXP40)
+- 📑 [Slides](./Aula6-Slides.pdf) 
 
 ---
 
