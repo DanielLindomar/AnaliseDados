@@ -78,12 +78,17 @@ segundas-feiras das 19:30 às 21:30
 ### Aula 8 – Introdução ao R
 - 🎥 [Vídeo Aula](https://youtu.be/kUMtk888wUU)
 - 📑 [Slides](./Aula8-Slides.pdf) 
-
+- 📄 [Introdução ao R – Script](./Lab3.pdf)
+- 📊 [Base de dados – Limonada](./Limonada.xls)
+  
 ---
 
 ### Atividade Prática – Laboratório 4
 - 📄 [Roteiro da Atividade Prática – Laboratório 4](./Lab4.pdf)
 - 📊 [Base de dados – Limonada](./Limonada.xlsx)
+- 📊 [Base de dados – Salário por Hora](./Salário_por_hora.xls)
+- 📊 [Base de dados – Função Pulmonar](./FunçãoPulmonar.xls)
+- 📊 [Base de dados – Aborto](./Aborto.xls)
 
 
 ---
