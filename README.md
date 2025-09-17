@@ -89,10 +89,10 @@ segundas-feiras das 19:30 às 21:30
 - 📊 [Base de dados – Salário por Hora](./Salário_por_hora.xls)
 - 📊 [Base de dados – Função Pulmonar](./FunçãoPulmonar.xls)
 - 📊 [Base de dados – Aborto](./Aborto.xls)
-- 📊 [Base de dados – Aborto](./Aborto.xls)
-- 📊 [Base de dados – Aborto](./Aborto.xls)
-- 📊 [Base de dados – Aborto](./Aborto.xls)
-- 📊 [Base de dados – Aborto](./Aborto.xls)
+- 📊 [Base de dados – Diabetes](./Diabetes.xls)
+- 📊 [Base de dados – Fertilidade](./Fertilidade.xls)
+- 📊 [Base de dados – Natalidade](./Natalidade.xls)
+- 📊 [Base de dados – pressao_artetial](./Aborto.xls)
 - 📊 [Base de dados – Aborto](./Aborto.xls)
   
 ---
