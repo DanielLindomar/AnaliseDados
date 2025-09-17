@@ -87,13 +87,13 @@ segundas-feiras das 19:30 às 21:30
 - 📄 [Roteiro da Atividade Prática – Laboratório 4](./Lab4.pdf)
 - 📊 [Base de dados – Limonada](./Limonada.xlsx)
 - 📊 [Base de dados – Salário por Hora](./Salário_por_hora.xls)
-- 📊 [Base de dados – Função Pulmonar](./FunçãoPulmonar.xls)
+- 📊 [Base de dados – Função pulmonar](./FunçãoPulmonar.xls)
 - 📊 [Base de dados – Aborto](./Aborto.xls)
 - 📊 [Base de dados – Diabetes](./Diabetes.xls)
 - 📊 [Base de dados – Fertilidade](./Fertilidade.xls)
 - 📊 [Base de dados – Natalidade](./Natalidade.xls)
-- 📊 [Base de dados – Pressão Arterial](./Pressao_arterial.xls)
-- 📊 [Base de dados – Temperatura_corporal](./Temperatura_corporal.xls)
+- 📊 [Base de dados – Pressão arterial](./Pressao_arterial.xls)
+- 📊 [Base de dados – Temperatura corporal](./Temperatura_corporal.xls)
   
 ---
 
