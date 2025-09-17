@@ -92,8 +92,8 @@ segundas-feiras das 19:30 às 21:30
 - 📊 [Base de dados – Diabetes](./Diabetes.xls)
 - 📊 [Base de dados – Fertilidade](./Fertilidade.xls)
 - 📊 [Base de dados – Natalidade](./Natalidade.xls)
-- 📊 [Base de dados – pressao_artetial](./Aborto.xls)
-- 📊 [Base de dados – Aborto](./Aborto.xls)
+- 📊 [Base de dados – Pressão Arterial](./Pressao_arterial.xls)
+- 📊 [Base de dados – Temperatura_corporal](./Temperatura_corporal.xls)
   
 ---
 
