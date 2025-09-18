@@ -102,7 +102,7 @@ segundas-feiras das 19:30 às 21:30
 ---
 
 ### Aula 9 – Introdução à Avaliação de Impacto
-- 🎥 [Vídeo Aula]()
+- 🎥 [Vídeo Aula](https://youtu.be/tOC6snCKwqk)
 - 📑 [Slides](./Aula9-Slides.pdf)
 - 📄 [Roteiro da Atividade Prática – Laboratório 5](./Lab5.pdf)
 - 📊 [Base de dados – Avaliação de Políticas](./AtividadePrática.xlsx)
