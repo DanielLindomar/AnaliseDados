@@ -101,6 +101,14 @@ segundas-feiras das 19:30 às 21:30
 
 ---
 
+### Aula 9 – Introdução à Avaliação de Impacto
+- 🎥 [Vídeo Aula]()
+- 📑 [Slides](./Aula9-Slides.pdf)
+- 📄 [Roteiro da Atividade Prática – Laboratório 5](./Lab5.pdf)
+- 📊 [Base de dados – Avaliação de Políticas](./AtividadePrática.xlsx)
+
+---
+
 ## 📧 Contato
 Prof. Lindomar Pegorini Daniel  
 [lindomar.pegorini@unemat.br](mailto:lindomar.pegorini@unemat.br)
